@@ -1,0 +1,11 @@
+name: PvP
+description: PvP plugin
+main: network.mcplayer.kitpvp.PvP
+author: Shprqness
+version: 1.0
+
+commands:
+  stats:
+    usage: /stats
+  rank:
+    usage: /rank
